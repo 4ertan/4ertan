@@ -4,6 +4,7 @@ Hi 👋 My name is Ertan
 Software Developer
 ------------------
 
+
 * ✉️  You can contact me at [ertanosmanoglu13@gmail.com](mailto:ertanosmanoglu13@gmail.com)
  
 ### Skills
@@ -29,4 +30,5 @@ Software Developer
 
 <p align="left"> <a href="https://www.github.com/4ertan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/4ertan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ertan-osmanoğlu-5214311a5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
+ 
+ 
