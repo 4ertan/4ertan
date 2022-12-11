@@ -1,11 +1,14 @@
 Hi 👋 My name is Ertan
 ======================
+<h3 align="center">A Full Stack Developer from Turkey</h3>
 
-Software Developer
-------------------
+- 🔭 I’m currently working on C#.Net
 
+- 🌱 I’m currently learning **Javascript, React and .Net  to become a full-stack developer.**
 
-* ✉️  You can contact me at [ertanosmanoglu13@gmail.com](mailto:ertanosmanoglu13@gmail.com)
+- 📫 How to reach me **ertanosmanoglu13@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ertan-osmano%C4%9Flu-5214311a5/](https://www.linkedin.com/in/ertan-osmano%C4%9Flu-5214311a5/)
  
 ### Skills
 
